@@ -163,7 +163,7 @@ module.exports = {
     payload_thumbnail_big_uri: Sequelize.STRING,
     payload_size: Sequelize.INTEGER, // file size in bytes
 
-    fill_color: {type: Sequelize.STRING, default: "transparent"},
+    fill_color: {type: Sequelize.STRING, default: "#F1C40F"},
     stroke_color: {type: Sequelize.STRING, default: "#000000"},
     text_color: Sequelize.STRING,
     stroke: {type: Sequelize.DECIMAL, default: 0.0},

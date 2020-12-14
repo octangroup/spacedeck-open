@@ -69,7 +69,7 @@ var SpacedeckSections = {
       letter_spacing: 0,
 
       stroke_color: "#000000",
-      fill_color: "#00000000",
+      fill_color: "#F1C40F",
       text_color: "#000000",
       background_color: "#ffffff",
 
